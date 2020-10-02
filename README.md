@@ -1,5 +1,6 @@
 # Scrape
 Web scraping using Selenium and BeautifulSoup
+Scraping from Faculty page of SMU
 Steps to run the code:
 ```
 git clone https://github.com/sancharidan/Scrape.git
